@@ -1,0 +1,26 @@
+Simple Snake Game in JavaScript
+
+You may code wherever you want.
+
+Ideas / Challenges (optional):
+
+All organized from easiest to hardest
+Try to complete as many as you can from each section
+
+Easy:
+ - Create a button or key to press to change food location
+ - Create a button to invert controls (left is now right and up is now down, etc...)
+ - Count and display the score
+
+Medium:
+ - Create an acceleration for the snake per score
+ - Create a button to turn off the snake's ability to go through walls
+ - Create a shop (that pauses the game when you enter it) where you can buy power ups for the snake (one power up could be: one that increases or decreases the snakes speed)
+
+Hard:
+ - Create the game using HTML elements rather than a canvas
+ - Create the ability to rotate the game 90 degrees
+ - Create a fully working automated AI for the game
+
+Max's Impossible Challenge (Please do not attempt these unless extremely comfortable with CS20 JavaScript Concepts):
+ - Use WSAD keys combined with Arrow Keys to create a 3D (400x400x400 grid) Snake Game with JavaScript Canvas, then if you have more time, create an AI to play this game.
